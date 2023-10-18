@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//MuhammadFazilSL.github.io/loginpage-demo/static/css/main.062777df.css",
+    "main.js": "/http//MuhammadFazilSL.github.io/loginpage-demo/static/js/main.ef167794.js",
+    "index.html": "/http//MuhammadFazilSL.github.io/loginpage-demo/index.html",
+    "main.062777df.css.map": "/http//MuhammadFazilSL.github.io/loginpage-demo/static/css/main.062777df.css.map",
+    "main.ef167794.js.map": "/http//MuhammadFazilSL.github.io/loginpage-demo/static/js/main.ef167794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.062777df.css",
+    "static/js/main.ef167794.js"
+  ]
+}
